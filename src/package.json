@@ -1,0 +1,14 @@
+{
+  "name": "timeshift-bot",
+  "version": "2.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Alex Levenshtein(Original), Kyando(2.0.0)",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.0.2",
+    "moment-timezone": "^0.5.31",
+    "node-cron": "^2.0.3"
+  }
+}

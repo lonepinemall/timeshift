@@ -1,0 +1,9 @@
+{
+  "tzData": {
+    "us-west": [ 9 ],
+    "us-east": [ 12 ],
+    "russia": [ 2 ],
+    "europe": [ 5 ]
+  },
+  "reference": "Asia/Tokyo"
+}
